@@ -1,0 +1,3 @@
+[submodule "ETHPrivTestnet"]
+	path = ETHPrivTestnet
+	url = https://github.com/AugustoL/ETHPrivTestnet
